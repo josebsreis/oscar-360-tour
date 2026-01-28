@@ -2,12 +2,109 @@
 
 ## Media
 
+### Floorplan
+
+### Image
+imlevel_2B006647_0586_142A_4162_4D9EE9ABB36F.url = media/map_1D9E4A08_5A1B_DCC2_41AD_12391A090CDE_en_0.webp
+imlevel_2B005647_0586_142A_417F_16D41E84103F.url = media/map_1D9E4A08_5A1B_DCC2_41AD_12391A090CDE_en_1.webp
+imlevel_2B01B648_0586_1426_4189_A4DDCC234E40.url = media/map_1D9E4A08_5A1B_DCC2_41AD_12391A090CDE_en_2.webp
+imlevel_2B01A648_0586_1426_4192_88E35A9B07C4.url = media/map_1D9E4A08_5A1B_DCC2_41AD_12391A090CDE_en_3.webp
+imlevel_2B018648_0586_1426_4184_C2A5ACB09F6C.url = media/map_1D9E4A08_5A1B_DCC2_41AD_12391A090CDE_en_4.webp
+
 ### Title
-model_1542D8DE_03AD_76E9_417D_AB62B287B09D.label = FirstStreet_Optimize_1Mil
+panorama_5F67B76C_4BEB_CA38_41C6_935728CEC944.label = 1
+panorama_59335BCD_4BEB_DA78_41BE_D1A4C15B0C7A.label = 11
+panorama_5933F337_4BEB_CA28_41B3_CE1A677F7AEB.label = 12
+panorama_59334B14_4BE8_3BE8_419B_36E66A5729C4.label = 13
+panorama_5933A2E5_4BE8_4A28_41C4_8CE271398D85.label = 14
+panorama_5933AAD5_4BE8_5A68_41D2_D0A2444C3F9A.label = 15
+panorama_5933B2C6_4BE8_4A68_41AD_F007A0F86C48.label = 16
+panorama_5933EA72_4BE8_7A28_41C4_BDCFB61E8401.label = 17
+panorama_59307230_4BE8_4A28_41B2_3F3BBA327A28.label = 18
+panorama_593399FF_4BE8_4618_41C5_8B04328FF14A.label = 19
+panorama_59065F17_4BEB_DBE8_4191_79D2346A4A20.label = 2
+panorama_5930518A_4BE8_46F8_4191_94949048D762.label = 20
+panorama_59339969_4BE8_4638_41D2_5DFDA361271B.label = 21
+panorama_5930A19D_4BE8_C618_41C5_73B6083E1E05.label = 22
+panorama_5930F936_4BE8_C628_41D2_E84B352D989E.label = 23
+panorama_5930E0B2_4BE8_C628_41CC_D9559537FB7E.label = 24
+panorama_5930F8E7_4BE8_C628_41B1_AD4FC339CDA2.label = 25
+panorama_593030B5_4BE8_C628_41BE_6E2379BB9DC9.label = 26
+panorama_59302841_4BE8_C668_419D_2F5FCA7E0469.label = 27
+panorama_59301642_4BEB_CA68_419C_784CEB3B7EA2.label = 3
+panorama_59302D2F_4BEB_FE38_41A6_3755004E2A40.label = 7
+panorama_5933A497_4BEB_CEE8_41B2_1813C7B4FE6F.label = 8
+album_A25D8603_801F_CA27_41CD_FFB7D2C3946B.label = Album
+map_1D9E4A08_5A1B_DCC2_41AD_12391A090CDE.label = floorplan
+photo_1CEF5A8A_5A1B_BDC6_41CB_0A0EB5347E13.label = general-img-landscape
+photo_1CEF5A8A_5A1B_BDC6_41CB_0A0EB5347E13.label = general-img-landscape
+
+## Skin
+
+### Image
+Image_00165B29_8ED0_0E83_41AD_C8958DF0B970.url = skin/Image_00165B29_8ED0_0E83_41AD_C8958DF0B970_en.png
+Image_0017EB29_8ED0_0E83_41D4_785220256D87.url = skin/Image_0017EB29_8ED0_0E83_41D4_785220256D87_en.png
+Image_120162E7_0409_FC94_4169_D41EB87CBC66.url = skin/Image_120162E7_0409_FC94_4169_D41EB87CBC66_en.png
+Image_1202B462_0409_FB8C_4176_CF8F10E092D2.url = skin/Image_1202B462_0409_FB8C_4176_CF8F10E092D2_en.png
+Image_1CDCCBC0_041E_0C8C_416D_9F568AF32180.url = skin/Image_1CDCCBC0_041E_0C8C_416D_9F568AF32180_en.png
+Image_1D1415E8_041E_049C_4175_0391B79FABDF.url = skin/Image_1D1415E8_041E_049C_4175_0391B79FABDF_en.png
+Image_1E410404_041E_3B94_416C_651061B08FC8.url = skin/Image_1E410404_041E_3B94_416C_651061B08FC8_en.png
+Image_26F00692_044F_E3C1_415F_DAB2023BBED8.url = skin/Image_26F00692_044F_E3C1_415F_DAB2023BBED8_en.png
+Image_4469DA0E_722E_B7B5_4189_E4B013ED39B8.url = skin/Image_4469DA0E_722E_B7B5_4189_E4B013ED39B8_en.png
+Image_4D6CE07A_6D40_F33F_41C8_71399127AB8A.url = skin/Image_4D6CE07A_6D40_F33F_41C8_71399127AB8A_en.png
+Image_540966B6_7C55_77D6_41D2_CBE1B36BFB75.url = skin/Image_540966B6_7C55_77D6_41D2_CBE1B36BFB75_en.png
+Image_5411147F_7C55_6B56_41D9_92BD126DBDC1.url = skin/Image_5411147F_7C55_6B56_41D9_92BD126DBDC1_en.png
+Image_5A8FED4F_7C6B_FAB6_41CA_4F1E70F52C9B.url = skin/Image_5A8FED4F_7C6B_FAB6_41CA_4F1E70F52C9B_en.png
+Image_65A77B1E_7C3B_1ED6_41BA_2C20B2A5B20D.url = skin/Image_65A77B1E_7C3B_1ED6_41BA_2C20B2A5B20D_en.png
+Image_65FBE8F7_7C3F_1B56_41CF_A495058BB279.url = skin/Image_65FBE8F7_7C3F_1B56_41CF_A495058BB279_en.png
+Image_671FBBC3_7C35_1DAE_41DA_2199736F18B9.url = skin/Image_671FBBC3_7C35_1DAE_41DA_2199736F18B9_en.png
+Image_75509E41_6D43_CF4D_41B4_EA454FBDEB15.url = skin/Image_75509E41_6D43_CF4D_41B4_EA454FBDEB15_en.png
+Image_79A21AE9_6DDA_947F_41B0_122E4EE0BA8C.url = skin/Image_79A21AE9_6DDA_947F_41B0_122E4EE0BA8C_en.png
+Image_79B5EAE5_6DDA_9477_41CF_AD71DA54A3CD.url = skin/Image_79B5EAE5_6DDA_9477_41CF_AD71DA54A3CD_en.png
+Image_A2E77D1A_80E6_56F3_41D6_98D87F3AEB9A.url = skin/Image_A2E77D1A_80E6_56F3_41D6_98D87F3AEB9A_en.png
+Image_B04B506E_87A2_B0C3_419F_61359F98960A.url = skin/Image_B04B506E_87A2_B0C3_419F_61359F98960A_en.png
+Image_B0C3B474_87D2_5F1B_41C8_FB0B39B3795C.url = skin/Image_B0C3B474_87D2_5F1B_41C8_FB0B39B3795C_en.png
+Image_B17AF13F_87A3_B041_41D7_F721DE11B8E6.url = skin/Image_B17AF13F_87A3_B041_41D7_F721DE11B8E6_en.png
+Image_B17B215B_87B2_390D_4188_8794C3F25741.url = skin/Image_B17B215B_87B2_390D_4188_8794C3F25741_en.png
+Image_B17B915B_87B2_390D_41D4_7B4D3866CAAE.url = skin/Image_B17B915B_87B2_390D_41D4_7B4D3866CAAE_en.png
+Image_B2279C4C_87B6_2F0B_41CF_8D59027446A5.url = skin/Image_B2279C4C_87B6_2F0B_41CF_8D59027446A5_en.png
+Image_B25024EE_87D1_DF07_41D4_79EBCDDA963F.url = skin/Image_B25024EE_87D1_DF07_41D4_79EBCDDA963F_en.png
+Image_B25334ED_87D1_DF05_41D4_F4E049CFE294.url = skin/Image_B25334ED_87D1_DF05_41D4_F4E049CFE294_en.png
+Image_B2E90698_87B2_3B0B_41DD_3533FFA688E8.url = skin/Image_B2E90698_87B2_3B0B_41DD_3533FFA688E8_en.png
+Image_B359AF88_87BE_290B_41D9_3AF43FCA985D.url = skin/Image_B359AF88_87BE_290B_41D9_3AF43FCA985D_en.png
+Image_B391CF7A_87B2_290F_41BD_8ED7FCC85FF1.url = skin/Image_B391CF7A_87B2_290F_41BD_8ED7FCC85FF1_en.png
+Image_B392CF7B_87B2_290D_41D0_F61EBA554B56.url = skin/Image_B392CF7B_87B2_290D_41D0_F61EBA554B56_en.png
+Image_B3AD5FC6_87B6_2904_41DC_C7786A029CCF.url = skin/Image_B3AD5FC6_87B6_2904_41DC_C7786A029CCF_en.png
+Image_B3E9A88D_87D6_3705_41D8_94903EFFE547.url = skin/Image_B3E9A88D_87D6_3705_41D8_94903EFFE547_en.png
+Image_B3EEB88E_87D6_3707_41D4_2F7100F10571.url = skin/Image_B3EEB88E_87D6_3707_41D4_2F7100F10571_en.png
+Image_B4E386C7_87B2_5B05_4163_A8F480926E3A.url = skin/Image_B4E386C7_87B2_5B05_4163_A8F480926E3A_en.png
+Image_F80EBFEA_8D30_0581_41B8_3F81CA379EEB.url = skin/Image_F80EBFEA_8D30_0581_41B8_3F81CA379EEB_en.png
+Image_F938D663_8D30_0687_41CA_C44B38DB1CC6.url = skin/Image_F938D663_8D30_0687_41CA_C44B38DB1CC6_en.png
+Image_F938F662_8D30_0681_418D_5B5999D0E3AE.url = skin/Image_F938F662_8D30_0681_418D_5B5999D0E3AE_en.png
+Image_FDB74966_8D30_0A81_41C0_A83498D1AEA9.url = skin/Image_FDB74966_8D30_0A81_41C0_A83498D1AEA9_en.png
+
+### Label
+Label_65E0A8FD_7C3F_1B5A_41D0_DC61BFE67FC0.text = About DIMDEX
+Label_B27DDF71_87B2_291D_41A6_FCB19D5507BB.text = INFO PANEL
+Label_742C6F66_6D5F_CD57_41D7_1809D2571704.text = Start Tour
+Label_5BEF66F7_7C7D_1756_41BC_91EB7D8E9931.text = {{Subtitle}}
+Label_65E018FB_7C3F_1B5E_41CC_5FACF9718DDA.text = {{title}}
+
+### Multiline Text
+HTMLText_B613473B_8B30_0687_41B1_2955522D13E0.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Inter 18pt Medium';">Welcome to Barzan Holdings - Qatar’s 360° Integrated Defense Ecosystem.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">At DIMDEX 2026, Barzan Holdings presents to you an immersive platform connecting all of our national defense sectors in a modern pavilion designed to provide visitors with an engaging journey through each sector, with digital and physical storytelling.</SPAN></SPAN></DIV></div>
+HTMLText_B9C679A5_80F2_4663_41DA_1DB98C4C6558.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'Inter 18pt Medium';">BAROOD, ETTAD &amp; BINDIG</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Learn about the state-of-the-art manufacturing facilities producing high-quality ammunition at the Barood Ammunition Factory.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">An interactive console introduces visitors to the latest security software at ETTAD.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Explore a wide range of reliable and portable weapons systems at BINDIG.</SPAN></SPAN></DIV></div>
+HTMLText_5BEFD6F7_7C7D_1756_41CA_4564B5051C6D.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'Inter 18pt Medium';">Design Direction</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">For DIMDEX 2026, The Barzan Holdings pavilion brings to its visitors a dynamic experience, shaped by immersive storytelling and a visually impactful design language. The stand is organized to encourage intuitive movement, with the fluid geometry guiding visitors through a sequence of zones tailored for communication, interaction and discovery.</SPAN></SPAN></DIV></div>
+HTMLText_B76A84DB_80F2_CE27_41D3_1F1B657B501B.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:27px;font-family:'Inter 18pt Medium';">ATAAD</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">ATAAD excels in the manufacturing and supply of military equipment, as well as advanced security and safety tools.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Renowned for its expertise in textile production, ATAAD specializes in designing and producing uniforms tailored for a variety of professional</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">applications.</SPAN></SPAN></DIV></div>
+HTMLText_B648C50D_80F2_4E23_41CA_3C93AD4AE418.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:27px;font-family:'Inter 18pt Medium';">BIG</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Discover the latest technologies shaping the designs of quality defense and security products at BIG.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Defining a circular zone for BIG introduces a natural flow, allowing visitors to move intuitively between products, a design language echoed throughout the entire exhibition.</SPAN></SPAN></DIV></div>
+HTMLText_B7E02396_80F2_CA21_41C9_1EFE7B2F87E4.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:27px;font-family:'Inter 18pt Medium';">BKS, RBAT &amp; Pavo Group</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Learn about the leading companies, providing technology focused solutions</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">for Security and Defense clients.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Using interactive technology for increasing engagement and enhancing user experience.</SPAN></SPAN></DIV></div>
+HTMLText_B7B71284_80F2_CA22_41DB_B52627BCAEFC.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:27px;font-family:'Inter 18pt Medium';">BMC &amp; UGVs</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Meet Altug, KIRPI II, Turan and Amazon at BMC, one of the largest commercial and military vehicle manufacturers.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Two Unmanned Ground Vehicles in varying configuration are on display in the Platforms Zone.</SPAN></SPAN></DIV></div>
+HTMLText_B8B770D3_80F2_4627_41DE_C425C9605C08.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:27px;font-family:'Inter 18pt Medium';">Sanad &amp; BMS</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Explore the training programs as well as specialist defense consultancy and services supporting Qatar to build security and resilience for the future at SANAD.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">BMS is the focal point for all maintenance, repair, and overhaul (MRO) services across all domains within security and defense sector.</SPAN></SPAN></DIV></div>
+HTMLText_B714EFAF_80F2_FA7F_41D9_9ACAE37A2DF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:27px;font-family:'Inter 18pt Medium';">USV, E&amp;S</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Learn about the leading companies, providing technology focused solutions for Security and Defense clients.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Inter 18pt Regular';">Using interactive technology for increasing engagement and enhancing user experience.</SPAN></SPAN></DIV></div>
 
 ## Tour
 
 ### Description
+tour.description = Description
 
 ### Title
-tour.name = Untitled 49
+tour.name = Project Title
